@@ -1,0 +1,14 @@
+[
+  {
+    "groupName": "admin",
+    "precedence": 1
+  },
+  {
+    "groupName": "sales",
+    "precedence": 2
+  },
+  {
+    "groupName": "marketing",
+    "precedence": 3
+  }
+]
